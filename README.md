@@ -1,2 +1,2 @@
 # Documentazione
-File di documentazione del gruppo SWEllfish14
+Repo per la gestione della documentazione del gruppo SWEllFish
